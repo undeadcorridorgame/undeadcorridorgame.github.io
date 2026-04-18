@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://undeadcorridorgame.github.io/sitemap.xml
